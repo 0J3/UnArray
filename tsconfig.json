@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "rootDir": ".",
+    "outDir": ".",
+    "module": "CommonJS",
+    "inlineSourceMap": true,
+    "inlineSources": true
+  },
+  "include": ["./*.ts"],
+  "exclude": []
+}
