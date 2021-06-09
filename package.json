@@ -1,6 +1,6 @@
 {
   "name": "@norathefurry/unarray",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Take [1,[3,[6],4,[593]],384] (or similar) and return [1,3,6,4,593,384]",
   "main": "index.js",
   "repository": "https://github.com/0J3/UnArray.git",
